@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:apiary_bundalo/screens/intro_screen.dart';
 
 void main() {
@@ -11,11 +10,10 @@ class MyApp extends StatelessWidget {
 
   // This widget is the root of your application.
   @override
-  Widget build (BuildContext context){
+  Widget build(BuildContext context) {
     return const MaterialApp(
-      home: IntroScreen(),
-      debugShowCheckedModeBanner: false,
-      title: 'Пчелињак Бундало'
-    );
+        home: IntroScreen(),
+        debugShowCheckedModeBanner: false,
+        title: 'Пчелињак Бундало');
   }
 }

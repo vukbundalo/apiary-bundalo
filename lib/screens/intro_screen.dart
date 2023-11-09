@@ -18,9 +18,15 @@ class IntroScreen extends StatelessWidget {
             top: -10,
             left: -150,
             child: Row(children: [
-              ImageListView(startIndex: 0,),
-              ImageListView(startIndex: 1,),
-              ImageListView(startIndex: 2,),
+              ImageListView(
+                startIndex: 0,
+              ),
+              ImageListView(
+                startIndex: 1,
+              ),
+              ImageListView(
+                startIndex: 2,
+              ),
             ]),
           ),
         ],

@@ -30,57 +30,70 @@ final categories = [
       categoryName: "Raw Honey",
       productCount: "5",
       thubnailImage:
-          'https://unsplash.com/photos/clear-glass-jar-with-brown-liquid-Asj5DFw8UAw'),
+          'https://images.unsplash.com/photo-1587049352851-8d4e89133924?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'),
   const Category(
       categoryName: "Creamed hooney with nuts",
       productCount: "5",
       thubnailImage:
-          'https://unsplash.com/photos/clear-glass-bottle-kp9UVn-PUac'),
+          'https://images.unsplash.com/photo-1587049352851-8d4e89133924?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'),
   const Category(
       categoryName: "Health oriented mixes",
       productCount: "5",
       thubnailImage:
-          'https://unsplash.com/photos/brown-wooden-honey-dipper-xGrtSzRazVM'),
+          'https://images.unsplash.com/photo-1587049352851-8d4e89133924?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'),
   const Category(
       categoryName: "Raw Honey",
       productCount: "5",
       thubnailImage:
-          'https://unsplash.com/photos/brown-beverage-in-clear-mason-jar-with-sstirrer-dktNU9tEOSI'),
+          'https://images.unsplash.com/photo-1587049352851-8d4e89133924?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'),
 ];
 
 final products = [
   const Product(
       productName: 'Meadow Honey',
-      productImageUrl:
-          'https://unsplash.com/photos/clear-glass-jar-with-orange-liquid-zuj7kbZNcUk',
+      productImageUrl: 'assets/images/image1.jpg',
       currentPrice: '25',
       oldPrice: '27',
       isLiked: true),
   const Product(
       productName: 'Bee Polen',
-      productImageUrl:
-          'https://unsplash.com/photos/yellow-sunflower-beside-clear-glass-jar-KBs1nN-r5xo',
+      productImageUrl: 'assets/images/image2.jpg',
       currentPrice: '30',
       oldPrice: '40',
       isLiked: true),
   const Product(
       productName: 'Organic Honey',
-      productImageUrl:
-          'https://unsplash.com/photos/a-stack-of-pancakes-with-syrup-being-drizzled-on-top-yPYn1nRteRA',
+      productImageUrl: 'assets/images/image3.jpg',
       currentPrice: '25',
       oldPrice: '27',
       isLiked: true),
   const Product(
       productName: 'Honeycomb',
-      productImageUrl:
-          'https://unsplash.com/photos/clear-glass-jar-with-orange-liquid-zuj7kbZNcUk',
+      productImageUrl: 'assets/images/image1.jpg',
       currentPrice: '25',
       oldPrice: '27',
       isLiked: true),
   const Product(
       productName: 'Honeycomb',
-      productImageUrl:
-          'https://unsplash.com/photos/clear-glass-jar-with-orange-liquid-zuj7kbZNcUk',
+      productImageUrl: 'assets/images/image2.jpg',
+      currentPrice: '25',
+      oldPrice: '27',
+      isLiked: true),
+  const Product(
+      productName: 'Honeycomb',
+      productImageUrl: 'assets/images/image3.jpg',
+      currentPrice: '25',
+      oldPrice: '27',
+      isLiked: true),
+  const Product(
+      productName: 'Honeycomb',
+      productImageUrl: 'assets/images/image4.jpg',
+      currentPrice: '25',
+      oldPrice: '27',
+      isLiked: true),
+  const Product(
+      productName: 'Honeycomb',
+      productImageUrl: 'assets/images/image5.jpg',
       currentPrice: '25',
       oldPrice: '27',
       isLiked: true),

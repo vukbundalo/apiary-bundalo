@@ -87,13 +87,13 @@ final products = [
       isLiked: true),
   const Product(
       productName: 'Honeycomb',
-      productImageUrl: 'assets/images/image4.jpg',
+      productImageUrl: 'assets/images/image1.jpg',
       currentPrice: '25',
       oldPrice: '27',
       isLiked: true),
   const Product(
       productName: 'Honeycomb',
-      productImageUrl: 'assets/images/image5.jpg',
+      productImageUrl: 'assets/images/image2.jpg',
       currentPrice: '25',
       oldPrice: '27',
       isLiked: true),
